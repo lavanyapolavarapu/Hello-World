@@ -4,3 +4,4 @@ git push
 git commit
 git pull
 git checkout
+git status
